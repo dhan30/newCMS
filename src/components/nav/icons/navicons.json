@@ -1,0 +1,17 @@
+[
+  {
+    "name": "main",
+    "key": "1",
+    "value": "MAIN"
+  },
+  {
+    "name": "list",
+    "key": "2",
+    "value": "LIST"
+  },
+  {
+    "name": "calendar",
+    "key": "3",
+    "value": "CALENDAR"
+  }
+]
